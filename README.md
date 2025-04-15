@@ -20,10 +20,6 @@
 2. Now simply open "index.html" file in your browser.
 3. Experience the game!
 
-## Screenshot
-
-![Dino Game Screenshot](https://your-image-url-if-you-upload-one.png)
-
 ## Developed By
 
 Adarsh Kumar Yadav
