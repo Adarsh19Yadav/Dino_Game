@@ -11,8 +11,7 @@
 
 ## Live Demo
 
-[Play the Game Here](https://your-username.github.io/dino-game/)  
-(Replace with your actual GitHub Pages link)
+[Play the Game Here](https://adarsh19yadav.github.io/Dino_Game/)  
 
 ## How to Use
 
