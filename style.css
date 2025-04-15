@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background: #e15fe1c9;
+    text-align: center;
+  }
+  
+  #game {
+    width: 800px;
+    height: 200px;
+    margin: 50px auto;
+    border: 2px solid #333;
+    background: rgb(142, 242, 150);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  #dino {
+    width: 40px;
+    height: 40px;
+    background: rgb(4, 113, 238);
+    position: absolute;
+    bottom: 0;
+    left: 50px;
+    border-radius: 5px;
+  }
+  
+  #cactus {
+    width: 20px;
+    height: 40px;
+    background: rgba(126, 27, 7, 0.942);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+  
+  #scoreBoard {
+    margin-top: 20px;
+  }
