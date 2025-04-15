@@ -16,7 +16,7 @@
 
 ## How to Use
 
-1. Download this repository.
+1. Download "index.html" , "style.css" , "script,js" each file in one folder
 2. Now simply open "index.html" file in your browser.
 3. Experience the game!
 
