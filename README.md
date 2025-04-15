@@ -1,7 +1,7 @@
 # Dino_Game
  A simple Dino game made up of using HTML,CSS and JavaScript
  
-## MAin features are
+## MAin features:-
 
 - A dinosaur jumps over a cactus/object using the key "SpaceBar"
 - each point of score increases with each cactus/obstacle passed
