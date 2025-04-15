@@ -16,7 +16,7 @@
 
 ## How to Use
 
-1. Download "index.html" , "style.css" , "script,js" each file in one folder
+1. Download or press CTRL+SHIFT+S "index.html" , "style.css" , "script,js" each file in one folder
 2. Now simply open "index.html" file in your browser.
 3. Experience the game!
 
